@@ -1,6 +1,6 @@
 # Analyser des indicateurs de l'égalité femmes - hommes avec un ETL, Knime
  
- _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°7 - Janv. 2023)_
  
 ## Compétences acquises
 * Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
